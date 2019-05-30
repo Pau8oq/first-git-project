@@ -1,2 +1,8 @@
-This is first file which has been created!!!
-qwerty123
+First  (some changes) file which has been created!!!
+qwerty123 - rebase   vim vifdfm
+adding in new branch some task1 3242342 abort abbort
+>>>>>>> Add abbort to first at master
+tro-lo-lo 123 my trallala -rebase iss12  and master and conflict
+adding in new branch some task1 3242342 -add comnflict
+
+
