@@ -1,4 +1,4 @@
-First  (some changes) file which has been created!!!
+(some changes) file which has been created!!!
 qwerty123 - rebase   vim vifdfm
 tro-lo-lo 123 my trallala -rebase iss12  and master and conflic
 

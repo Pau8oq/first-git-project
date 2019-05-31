@@ -1,7 +1,1 @@
-inittial line
-some commit
-conflict
-again conflict
-conflict - and conflict
-qwerty
-com iteractive
+inittial 
