@@ -1,4 +1,4 @@
-inittial line
+inittial 
 some commit
 conflict
 again conflict
